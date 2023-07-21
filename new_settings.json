@@ -1,12 +1,27 @@
 {
     "records": [
-        {
-            "country_imageUrl": "https://play-lh.googleusercontent.com/ZUyX3mewQBt8pjDJXoUY9E0exWu0vItVU6zsiE9i-WJ_LhM0Pt3wzewfRJN4JIZ-jSQ=w240-h480-rw",
-            "country_name": "Blue Birds",
-            "Links": "https://iptvfree-adultos001.blogspot.com",
-            "SubLinks": [
-                "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_1.rutu"
-            ]
-        }
+      {
+        "country_imageUrl": "https://play-lh.googleusercontent.com/ZUyX3mewQBt8pjDJXoUY9E0exWu0vItVU6zsiE9i-WJ_LhM0Pt3wzewfRJN4JIZ-jSQ=w240-h480-rw",
+        "country_name": "Blue Birds",
+        "Links": "https://iptvfree-adultos001.blogspot.com",
+        "SubLinks": [
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_1.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_10.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_11.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_12.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_13.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_14.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_15.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_16.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_17.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_18.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_19.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_1_1.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_1_2.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_2.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_20.rutu",
+          "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/X_App/More_Urls/data_files/git_21.rutu"
+        ]
+      }
     ]
-}
+  }
