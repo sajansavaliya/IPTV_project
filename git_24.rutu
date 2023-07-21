@@ -1,0 +1,198 @@
+{
+    "TV_Data": {
+        "Channel_List": {
+            "is_channel_list": true,
+            "is_override": true,
+            "thumb_width": 150,
+            "all_Channels_Tab_Name": "",
+            "main": {
+                "id": 14,
+                "name": "Chinese Channels",
+                "sub_name": "Channels",
+                "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-china_748006.png",
+                "sub": {
+                    "sub_1": {
+                        "id": 1,
+                        "mode": "video",
+                        "name": "XXX_8",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/brunette.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 1"
+                    },
+                    "sub_2": {
+                        "id": 2,
+                        "mode": "video",
+                        "name": "XXX_9",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/compilation.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 2"
+                    },
+                    "sub_3": {
+                        "id": 3,
+                        "mode": "video",
+                        "name": "XXX_10",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/cuckold.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 3"
+                    },
+                    "sub_4": {
+                        "id": 4,
+                        "mode": "video",
+                        "name": "XXX_11",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/fetish.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 4"
+                    },
+                    "sub_5": {
+                        "id": 5,
+                        "mode": "video",
+                        "name": "XXX_12",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/gangbang.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 5"
+                    },
+                    "sub_6": {
+                        "id": 6,
+                        "mode": "video",
+                        "name": "XXX_13",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/gay.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 6"
+                    },
+                    "sub_7": {
+                        "id": 7,
+                        "mode": "video",
+                        "name": "XXX_14",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/hardcore.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 7"
+                    },
+                    "sub_8": {
+                        "id": 8,
+                        "mode": "video",
+                        "name": "XXX_15",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/interracial.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 8"
+                    },
+                    "sub_9": {
+                        "id": 9,
+                        "mode": "video",
+                        "name": "XXX_16",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/latina.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 9"
+                    },
+                    "sub_10": {
+                        "id": 10,
+                        "mode": "video",
+                        "name": "XXX_17",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/lesbian.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 10"
+                    },
+                    "sub_11": {
+                        "id": 11,
+                        "mode": "video",
+                        "name": "XXX_18",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/milf.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 11"
+                    },
+                    "sub_12": {
+                        "id": 12,
+                        "mode": "video",
+                        "name": "XXX_19",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/pornstar.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 12"
+                    },
+                    "sub_13": {
+                        "id": 13,
+                        "mode": "video",
+                        "name": "XXX_20",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/pov.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 13"
+                    },
+                    "sub_14": {
+                        "id": 14,
+                        "mode": "video",
+                        "name": "XXX_21",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/rough.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 14"
+                    },
+                    "sub_15": {
+                        "id": 15,
+                        "mode": "video",
+                        "name": "XXX_22",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/russian.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 15"
+                    },
+                    "sub_16": {
+                        "id": 16,
+                        "mode": "video",
+                        "name": "XXX_23",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/teen.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 16"
+                    },
+                    "sub_17": {
+                        "id": 17,
+                        "mode": "video",
+                        "name": "XXX_24",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/threesome.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 17"
+                    },
+                    "sub_18": {
+                        "id": 18,
+                        "mode": "video",
+                        "name": "XXX_5",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/bigtits.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 18"
+                    },
+                    "sub_19": {
+                        "id": 19,
+                        "mode": "video",
+                        "name": "XXX_6",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/blonde.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 19"
+                    },
+                    "sub_20": {
+                        "id": 20,
+                        "mode": "video",
+                        "name": "XXX_7",
+                        "sub_name": "",
+                        "stream_video_url": "http://cdn.adultiptv.net/blowjob.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 20"
+                    }
+                }
+            }
+        }
+    }
+}

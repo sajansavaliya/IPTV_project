@@ -1,0 +1,81 @@
+{
+    "TV_Data": {
+        "Channel_List": {
+            "is_channel_list": true,
+            "is_override": true,
+            "thumb_width": 150,
+            "all_Channels_Tab_Name": "",
+            "main": {
+                "id": 14,
+                "name": "Chinese Channels",
+                "sub_name": "Channels",
+                "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-china_748006.png",
+                "sub": {
+                    "sub_1": {
+                        "id": 1,
+                        "mode": "video",
+                        "name": "Miami  Jenny 2",
+                        "sub_name": "",
+                        "stream_video_url": "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 1"
+                    },
+                    "sub_2": {
+                        "id": 2,
+                        "mode": "video",
+                        "name": "Miami  Jenny Live",
+                        "sub_name": "",
+                        "stream_video_url": "https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 2"
+                    },
+                    "sub_3": {
+                        "id": 3,
+                        "mode": "video",
+                        "name": "Miami  Jenny Live",
+                        "sub_name": "",
+                        "stream_video_url": "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 3"
+                    },
+                    "sub_4": {
+                        "id": 4,
+                        "mode": "video",
+                        "name": "Miami  M\u00e9xico",
+                        "sub_name": "",
+                        "stream_video_url": "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 4"
+                    },
+                    "sub_5": {
+                        "id": 5,
+                        "mode": "video",
+                        "name": "Visit-X",
+                        "sub_name": "",
+                        "stream_video_url": "http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 5"
+                    },
+                    "sub_6": {
+                        "id": 6,
+                        "mode": "video",
+                        "name": "Visit-X",
+                        "sub_name": "",
+                        "stream_video_url": "http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 6"
+                    },
+                    "sub_7": {
+                        "id": 7,
+                        "mode": "video",
+                        "name": "Fashion Midnite Secrets",
+                        "sub_name": "",
+                        "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 7"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "TV_Data": {
+        "Channel_List": {
+            "is_channel_list": true,
+            "is_override": true,
+            "thumb_width": 150,
+            "all_Channels_Tab_Name": "",
+            "main": {
+                "id": 14,
+                "name": "Chinese Channels",
+                "sub_name": "Channels",
+                "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-china_748006.png",
+                "sub": {
+                    "sub_1": {
+                        "id": 1,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 028",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3378/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 1"
+                    },
+                    "sub_2": {
+                        "id": 2,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 029",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3379/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 2"
+                    },
+                    "sub_3": {
+                        "id": 3,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 030",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3380/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 3"
+                    },
+                    "sub_4": {
+                        "id": 4,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 031",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3381/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 4"
+                    },
+                    "sub_5": {
+                        "id": 5,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 032",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3382/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 5"
+                    },
+                    "sub_6": {
+                        "id": 6,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 033",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3383/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 6"
+                    },
+                    "sub_7": {
+                        "id": 7,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 034",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3384/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 7"
+                    },
+                    "sub_8": {
+                        "id": 8,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 035",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3385/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 8"
+                    },
+                    "sub_9": {
+                        "id": 9,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 036",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3386/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 9"
+                    },
+                    "sub_10": {
+                        "id": 10,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 037",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3387/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 10"
+                    },
+                    "sub_11": {
+                        "id": 11,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 038",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3388/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 11"
+                    },
+                    "sub_12": {
+                        "id": 12,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 039",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3485/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 12"
+                    },
+                    "sub_13": {
+                        "id": 13,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 040",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3389/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 13"
+                    },
+                    "sub_14": {
+                        "id": 14,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 041",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3390/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 14"
+                    },
+                    "sub_15": {
+                        "id": 15,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 042",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3391/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 15"
+                    },
+                    "sub_16": {
+                        "id": 16,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 043",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3392/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 16"
+                    },
+                    "sub_17": {
+                        "id": 17,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 044",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3393/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 17"
+                    },
+                    "sub_18": {
+                        "id": 18,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 045",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3394/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 18"
+                    },
+                    "sub_19": {
+                        "id": 19,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 046",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3395/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 19"
+                    },
+                    "sub_20": {
+                        "id": 20,
+                        "mode": "video",
+                        "name": "ADULTBrazzers - VOD 047",
+                        "sub_name": "",
+                        "stream_video_url": "http://static.brazzers.com/scenes/3396/180sec.flv",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 20"
+                    }
+                }
+            }
+        }
+    }
+}
