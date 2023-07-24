@@ -50,9 +50,9 @@
                     "sub_5": {
                         "id": 5,
                         "mode": "video",
-                        "name": "Visit-X",
+                        "name": "Rouge",
                         "sub_name": "",
-                        "stream_video_url": "http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8",
+                        "stream_video_url": "http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8",
                         "thumbnail_url": "https://bit.ly/Love_Image2",
                         "name_original": "Channel 5"
                     },
@@ -61,18 +61,27 @@
                         "mode": "video",
                         "name": "Visit-X",
                         "sub_name": "",
-                        "stream_video_url": "http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8",
+                        "stream_video_url": "http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8",
                         "thumbnail_url": "https://bit.ly/Love_Image2",
                         "name_original": "Channel 6"
                     },
                     "sub_7": {
                         "id": 7,
                         "mode": "video",
+                        "name": "Visit-X",
+                        "sub_name": "",
+                        "stream_video_url": "http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8",
+                        "thumbnail_url": "https://bit.ly/Love_Image2",
+                        "name_original": "Channel 7"
+                    },
+                    "sub_8": {
+                        "id": 8,
+                        "mode": "video",
                         "name": "Fashion Midnite Secrets",
                         "sub_name": "",
                         "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8",
                         "thumbnail_url": "https://bit.ly/Love_Image2",
-                        "name_original": "Channel 7"
+                        "name_original": "Channel 8"
                     }
                 }
             }
